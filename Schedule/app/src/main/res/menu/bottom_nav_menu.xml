@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_mon"
+        android:title="@string/monday" />
+
+    <item
+        android:id="@+id/nav_tues"
+        android:title="@string/tuesday" />
+
+    <item
+        android:id="@+id/nav_wed"
+        android:title="@string/wednesday" />
+
+    <item
+        android:id="@+id/nav_th"
+        android:title="@string/thursday" />
+
+    <item
+        android:id="@+id/nav_frid"
+        android:title="@string/friday" />
+
+    <item
+        android:id="@+id/nav_sat"
+        android:title="@string/saturday" />
+
+</menu>

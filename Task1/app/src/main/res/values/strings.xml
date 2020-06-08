@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1</string>
+
+    <string name="fio">Авилова Арина Демьяновна, 3724</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="save">Сохранить</string>
+</resources>
